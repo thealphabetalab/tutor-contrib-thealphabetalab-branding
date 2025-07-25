@@ -1,0 +1,2 @@
+recursive-include thealphabetalab_branding/patches *
+recursive-include thealphabetalab_branding/templates *

@@ -1,0 +1,15 @@
+# -----------------------------------------------------------------------------
+# tutor plugin thealphabetalab_branding
+# -----------------------------------------------------------------------------
+GOOGLE_ANALYTICS_ACCOUNT = 'GTM-NBXRS2T'
+GOOGLE_ANALYTICS_TRACKING_ID = 'GTM-NBXRS2T'
+# GOOGLE_ANALYTICS_LINKEDIN
+# GOOGLE_SITE_VERIFICATION_ID
+# GOOGLE_ANALYTICS_4_ID
+
+LOGO_IMAGE_EXTRA_TEXT = "The Alpha Beta Lab logo"
+LOGO_URL = "https://www.thealphabetalab.com//wp-content/uploads/2022/02/logo.png"
+LOGO_URL_PNG = "https://www.thealphabetalab.com//wp-content/uploads/2022/02/logo.png"
+LOGO_TRADEMARK_URL = "https://www.thealphabetalab.com//wp-content/uploads/2022/02/logo.png"
+FAVICON_URL = "https://www.thealphabetalab.com//wp-content/uploads/2022/02/logo-100x100.png"
+DEFAULT_EMAIL_LOGO_URL = "https://www.thealphabetalab.com//wp-content/uploads/2022/02/logo.png"

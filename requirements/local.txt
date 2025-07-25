@@ -1,0 +1,6 @@
+
+
+click~=8.0
+importlib-resources~=6.0
+hatchling~=1.0
+tutor==19.0.5
